@@ -2,8 +2,7 @@
 --sergio antonio canda poveda 211172
 --Henry Yosec Benavides Amador 
  
-USE [DB_SCRUM_PLANNING]
-GO
+
 
 USE [DB_SCRUM_PLANNING]
 GO
